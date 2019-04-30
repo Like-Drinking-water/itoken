@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://192.168.198.136:8888
+      name: common-service, service-admin
+      label: master
+      profile: prod

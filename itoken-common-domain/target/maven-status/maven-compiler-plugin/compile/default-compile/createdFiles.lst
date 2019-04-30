@@ -1,0 +1,3 @@
+com\huanleichen\itoken\common\domain\BaseDomain.class
+com\huanleichen\itoken\common\domain\TbPostsPost.class
+com\huanleichen\itoken\common\domain\TbSysUser.class

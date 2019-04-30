@@ -1,0 +1,6 @@
+com\huanleichen\itoken\service\posts\mapper\TbPostsPostExtendMapper.class
+com\huanleichen\itoken\service\posts\config\Swagger2Config.class
+com\huanleichen\itoken\service\posts\controller\ServicePostsController.class
+com\huanleichen\itoken\service\posts\service\impl\PostsServiceImpl.class
+com\huanleichen\itoken\service\posts\ServicePostsApplication.class
+com\huanleichen\itoken\service\posts\service\PostsService.class

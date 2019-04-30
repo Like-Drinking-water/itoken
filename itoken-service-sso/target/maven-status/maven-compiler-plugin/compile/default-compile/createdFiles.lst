@@ -1,0 +1,7 @@
+com\huanleichen\itoken\service\sso\service\SSOService.class
+com\huanleichen\itoken\service\sso\service\impl\SSOServiceImpl.class
+com\huanleichen\itoken\service\sso\ServiceSSOApplication.class
+com\huanleichen\itoken\service\sso\service\consumer\fallback\RedisServiceFallback.class
+com\huanleichen\itoken\service\sso\mapper\TbSysUserMapper.class
+com\huanleichen\itoken\service\sso\controller\SSOController.class
+com\huanleichen\itoken\service\sso\service\consumer\RedisService.class

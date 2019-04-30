@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: itoken-config
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: http://192.168.198.130/itoken/config.git
+          search-paths: repo
+          username: chen
+          password: wxy5201314
+  zipkin:
+    base-url: http://192.168.198.136:9411
+  boot:
+    admin:
+      client:
+        url: http://192.168.198.136:8084
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://192.168.198.136:8761/eureka/
+
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: health,info

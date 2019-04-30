@@ -1,0 +1,6 @@
+com\huanleichen\itoken\common\service\mapper\TbPostsPostMapper.class
+com\huanleichen\itoken\common\service\service\BaseService.class
+tk\mybatis\mapper\MyMapper.class
+com\huanleichen\itoken\common\service\service\impl\BaseServiceImpl.class
+com\huanleichen\itoken\common\service\utils\RedisCache.class
+com\huanleichen\itoken\common\service\mapper\TbSysUserMapper.class
