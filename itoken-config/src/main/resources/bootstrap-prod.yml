@@ -9,7 +9,7 @@ spring:
           uri: http://192.168.198.130/itoken/config.git
           search-paths: repo
           username: chen
-          password: wxy5201314
+          password: 
   zipkin:
     base-url: http://192.168.198.136:9411
   boot:
